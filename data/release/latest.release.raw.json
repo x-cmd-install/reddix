@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5221151,
       "digest": "sha256:d77c9493a6d909487b77223c4ad75b6c9b3567968b66ce5b44371d72d12a24d0",
-      "download_count": 217,
+      "download_count": 219,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-pc-windows-msvc.zip"
