@@ -1,0 +1,71 @@
+- repo: aur
+  srcname: reddix
+  binname: reddix
+  visiblename: reddix
+  version: 0.2.9
+  origversion: 0.2.9-1
+  status: newest
+  summary: Reddit, refined for the terminal.
+  maintainers:
+    - ringo@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: reddix-bin
+  binname: reddix-bin
+  visiblename: reddix-bin
+  version: 0.2.9
+  origversion: 0.2.9-1
+  status: newest
+  summary: Reddit, refined for the terminal.
+  maintainers:
+    - ringo@aur
+  licenses:
+    - MIT License
+- repo: homebrew
+  srcname: reddix
+  visiblename: reddix
+  version: 0.2.9
+  origversion: null
+  status: newest
+  summary: Reddit, refined for the terminal
+- repo: homebrew
+  srcname: reddix
+  visiblename: reddix
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Reddit, refined for the terminal
+- repo: nix_stable_25_11
+  srcname: reddix
+  visiblename: reddix
+  version: 0.2.9
+  origversion: null
+  status: newest
+  summary: Reddit, refined for the terminal
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: reddix
+  visiblename: reddix
+  version: 0.2.9
+  origversion: null
+  status: newest
+  summary: Reddit, refined for the terminal
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: reddix
+  visiblename: reddix
+  version: 0.2.9
+  origversion: null
+  status: newest
+  summary: Reddit, refined for the terminal
+  maintainers:
+    - me@aleksana.moe
+  licenses:
+    - MIT
