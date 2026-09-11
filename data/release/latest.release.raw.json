@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4368608,
       "digest": "sha256:5d1195fe6729bfe7d41b0c7c9aad12e1e11c1eb9532d68d9704861d413179201",
-      "download_count": 1288,
+      "download_count": 1289,
       "created_at": "2025-11-05T16:03:03Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-unknown-linux-gnu.tar.xz"
