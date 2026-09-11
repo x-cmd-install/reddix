@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22315,
       "digest": "sha256:42140b0ba839532a1cb21d59ebaddf12af71a00f72d99dc92e7720428a4465ab",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3698260,
       "digest": "sha256:185708c7840a48c5f6500545ca4a4a6ad1d2862415e6c97927a16249d8a6b96b",
-      "download_count": 164,
+      "download_count": 165,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:f88f46d815ae262bbe27f7d5fb458c64c78829818b2d17a3f02b87270937752f",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4030920,
       "digest": "sha256:2d4e90a5e674a3d4b06b55592599342259fc5239af2a97e08fede2657f210e1a",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:618cb7e9c5ed30b0b52d5f28eb0994da6537ca3640a676e717c099278ef27ca3",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 21210,
       "digest": "sha256:78c7c9756a1e98e94fe48cdee69185bc2e96da88b890098f2086acb7f4adc126",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-installer.ps1"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 51674,
       "digest": "sha256:8690d318b4ad1d613f35060fda413baff3506eaa860a1eccf7cadb96647829bb",
-      "download_count": 879,
+      "download_count": 881,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-installer.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4148552,
       "digest": "sha256:032d16bf5cede3a5fb8a1e60ed7493c765f45b84ab7e258ae10bae453606baf8",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-apple-darwin.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:a028829afc3ec20268b74bbed616f3c9a00ba8a305a94badde9625158072f63f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:02Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-apple-darwin.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5221151,
       "digest": "sha256:d77c9493a6d909487b77223c4ad75b6c9b3567968b66ce5b44371d72d12a24d0",
-      "download_count": 219,
+      "download_count": 220,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:2309ae6655884322e599ff46acb42cb773d90cce9c019304c6389c2f012a9bff",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4368608,
       "digest": "sha256:5d1195fe6729bfe7d41b0c7c9aad12e1e11c1eb9532d68d9704861d413179201",
-      "download_count": 1289,
+      "download_count": 1294,
       "created_at": "2025-11-05T16:03:03Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:82d71a2d30074c2c7c7c2eba71ce5279a8bf82910aa112b526b6ee60f6872b7d",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2025-11-05T16:03:02Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/reddix-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 593,
       "digest": "sha256:e4218a35765b7a2745642b45b711fc2feefd55d9030be25e3cc42500f6afe9cf",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2025-11-05T16:03:03Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/sha256.sum"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 614415,
       "digest": "sha256:6a9a59f53f9c57248c2b0abc70a2a40431192fa22af52fa11f7d73508ddf256a",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-11-05T16:03:03Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/source.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:40df81f86e392a130c45b7ea2c4411d2cf16964e8e3a7c822bffe6432ab7b407",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2025-11-05T16:03:03Z",
       "updated_at": "2025-11-05T16:03:03Z",
       "browser_download_url": "https://github.com/ck-zhang/reddix/releases/download/v0.2.9/source.tar.gz.sha256"
