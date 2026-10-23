@@ -46,12 +46,12 @@ Total: **17,195** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 6 | 2 | 1 | 0 | 7 | 16 |
-| last720d | 2024-11-01 | 30 | 2 | 1 | 19 | 14 | 87 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 6 | 2 | 1 | 0 | 6 | 16 |
+| last720d | 2024-11-02 | 30 | 2 | 1 | 19 | 14 | 87 |
 
 ## Release assets
 
@@ -74,6 +74,15 @@ Total: **17,195** lines of code across **24** files in the top 5 languages.
 | [source.tar.gz](https://github.com/ck-zhang/reddix/releases/download/v0.2.9/source.tar.gz) | 600.0 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/ck-zhang/reddix/releases/download/v0.2.9/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/reddix). **6** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.2.9` | ✅ latest |
+| Nix unstable | `0.2.9` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for reddix lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `reddix` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +92,4 @@ Install metadata for reddix lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:03:13Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:03:59Z._
